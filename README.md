@@ -1,5 +1,3 @@
-# web-scraping-coronavirus
-
 # Web Scraping Project - Coronavirus Data
 
 ---
